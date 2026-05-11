@@ -7,7 +7,7 @@ Flip cards, match pairs, track your score, and complete the game with the fewest
 
 ## 🚀 Live Demo
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo]([https://your-live-demo-link.com](https://memory-card-game-teal-nine.vercel.app/))
 
 ---
 
